@@ -1,10 +1,10 @@
 Product Type,Pick UOM,Cost ($)
-PV,Pallet,7.7
+PV,Pallet,8.86
 PV,Case,0
-PV,Each,2.05
-BOS,Pallet,7.7
-BOS,Case,1.5
-BOS,Each,0.175
-RL,Pallet,7.7
-RL,Case,6.49
-RL,Each,1.92
+PV,Each,0.96
+BOS,Pallet,3.76
+BOS,Case,2.27
+BOS,Each,0.03
+RL,Pallet,0.194
+RL,Case,3.11
+RL,Each,2.27
